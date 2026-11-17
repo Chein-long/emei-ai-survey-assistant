@@ -1,0 +1,6 @@
+﻿rule_id,standard_id,species_group,population_scope,model_type,dbh_class,a0,a1,a2,formula,agb_unit,dbh_unit,height_unit,source_table,source_page,rule_status
+LIUSHAN_ONE_GE5,GB/T 43648-2024,柳杉,全国柳杉分布区,one_variable,ge_5,0.15483,2.17100,,MA=a0*D^a1,kg,cm,m,表2,5,official
+LIUSHAN_TWO_GE5,GB/T 43648-2024,柳杉,全国柳杉分布区,two_variable,ge_5,0.09311,1.81174,0.60677,MA=a0*D^a1*H^a2,kg,cm,m,表2,5,official
+LIUSHAN_ONE_LT5,GB/T 43648-2024,柳杉,全国柳杉分布区,one_variable,lt_5,0.22754,1.93180,,MA=a0*D^a1,kg,cm,m,表3,7,official
+LIUSHAN_TWO_LT5,GB/T 43648-2024,柳杉,全国柳杉分布区,two_variable,lt_5,0.19780,1.34355,0.60677,MA=a0*D^a1*H^a2,kg,cm,m,表3,7,official
+QITASHAN_ONE_GE5,GB/T 43648-2024,其他杉,全国,one_variable,ge_5,0.1182,2.333,,MA=a0*D^a1,kg,cm,m,表E.1,235,official

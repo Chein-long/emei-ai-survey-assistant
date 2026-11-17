@@ -1,0 +1,3 @@
+﻿fraction_id,standard_id,species_group,population_scope,component,cf_value,standard_deviation,source_table,source_page,status
+LIUSHAN_AG_CF,GB/T 43648-2024,柳杉,全国柳杉分布区,aboveground,0.5154,0.0298,表14,28,official
+QITASHAN_AG_CF,GB/T 43648-2024,其他杉,全国,aboveground,0.5,,表E.1,235,official
